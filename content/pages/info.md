@@ -75,7 +75,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Captura de pantalla 2024-11-11 111822.png
         altText: Logo five
         caption: Logo five
     spacing: 3
