@@ -13,15 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >+
+      ## MUCHAS GRACIAS POR VISITAR MI PÁGINA WEB, PRONTO SUBIRÉ MIS PROYECTOS
+      ACADÉMICOS.
+
     styles:
       self:
         height: auto
@@ -79,7 +74,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Captura de pantalla 2024-11-11 111822.png
         altText: Logo five
         caption: Logo five
     spacing: 3
