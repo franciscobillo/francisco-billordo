@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: 'ME LLAMO FRANCISCO BILLORDO, ME GUSTA APRENDER CONSTANTEMENTE.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      ACTUALMENTE DOCENTE DE MATERIAS TÉCNICAS DE LA E.E.T.A. N° 32, DOCENTE
+      REMOTO PARA FUNDACIÓN SADOSKY- CEIBAL DE URUGUAY Y PROFESOR DE LA
+      TECNICATURA EN CIENCIA DE DATOS E IA DE LA CIUDAD DE RESISTENCIA.
     styles:
       self:
         height: auto
